@@ -8724,7 +8724,7 @@
       },
       4: {
         id: 4,
-        title: 'KANBAN',
+        title: 'TASKS',
         path: 'kanban',
         enabled: 'is_kanban_activated'
       },
