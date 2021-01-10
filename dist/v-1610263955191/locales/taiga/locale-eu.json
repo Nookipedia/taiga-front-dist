@@ -1057,7 +1057,7 @@
                 "SELECTOR": "Inportatu Asana proiektua eta hautatu nola kudeatu",
                 "CHOOSE_PROJECT": "Aukeratu zein proiektu nahi duzun inportatu",
                 "NO_PROJECTS": "Badirudi ez duzula proiekturik Asanan",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "Scrum",
                 "CREATE_AS_SCRUM_DESCRIPTION": "Zure proiektuaren atazak eta azpi-atazak bihurtuko dira Nookipedia Tasksn eginkizun eta atazak",
                 "CREATE_AS_KANBAN_DESCRIPTION": "Zure proiektuaren atazak eta azpi-atazak bihurtuko dira Nookipedia Tasksn eginkizun eta atazak"
@@ -1068,7 +1068,7 @@
                 "CHOOSE_PROJECT": "Aukeratu zein proiektu edo arbel nahi duzun inportatu",
                 "NO_PROJECTS": "Badirudi ez duzula proiekturik edo arbelik Jiran",
                 "URL": "Zure Jira URLa",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "Scrum",
                 "ISSUES_PROJECT": "Gertakariak",
                 "CREATE_AS_SCRUM_DESCRIPTION": "Zure proiektuaren atazak eta azpi-atazak bihurtuko dira Nookipedia Tasksn eginkizun eta atazak",

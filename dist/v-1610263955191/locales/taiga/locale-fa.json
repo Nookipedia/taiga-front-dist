@@ -1057,7 +1057,7 @@
                 "SELECTOR": "وارد کردن پروژه‌های Asana و انتخاب نحوه‌ی مدیریت آن",
                 "CHOOSE_PROJECT": "انتخاب پروژه برای وارد کردن",
                 "NO_PROJECTS": "به نظر می‌رسد که پروژه‌ای در Asana ندارید",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "اسکرام",
                 "CREATE_AS_SCRUM_DESCRIPTION": "وظایف و زیروظایف پروژه‌ی شما به صورت استوری‌های کاربری تایگاه و وظایف ایجاد می‌شود.",
                 "CREATE_AS_KANBAN_DESCRIPTION": "وظایف و زیروظایف پروژه‌ی شما به صورت استوری‌های کاربری تایگاه و وظایف ایجاد می‌شود."
@@ -1068,7 +1068,7 @@
                 "CHOOSE_PROJECT": "پروژه یا بوردی که می‌خواهید وارد کنید را انتخاب کنید",
                 "NO_PROJECTS": "به نظر می‌رسد که پروژه یا بوردی در Jira ندارید",
                 "URL": "لینک Jira",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "اسکرام",
                 "ISSUES_PROJECT": "موضوعات",
                 "CREATE_AS_SCRUM_DESCRIPTION": "این موضوع و موضوعات زیرمجموعه‌‌ی آن از پروژه‌ی شما، به صورت استوری‌های کاربری و وظایف تایگا ایجاد می‌شود",

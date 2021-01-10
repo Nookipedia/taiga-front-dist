@@ -1057,7 +1057,7 @@
                 "SELECTOR": "Importer votre projet Asana et choisissez comment le suivre",
                 "CHOOSE_PROJECT": "Choisissez le projet que vous souhaitez importer",
                 "NO_PROJECTS": "Il semble que vous n'aillez aucun projet dans Asana",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "Scrum",
                 "CREATE_AS_SCRUM_DESCRIPTION": "Les tâches et sous-tâches de votre projet seront créées comme récits et tâches dans Taïga",
                 "CREATE_AS_KANBAN_DESCRIPTION": "Les tâches et sous-tâches de votre projet seront créées comme récits et tâches dans Taïga"
@@ -1068,7 +1068,7 @@
                 "CHOOSE_PROJECT": "Choisissez le projet ou le tableau que vous souhaitez importer",
                 "NO_PROJECTS": "Il semble que vous n'aillez ni projet ni tableau dans Jira",
                 "URL": "Votre URL Jira",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "Scrum",
                 "ISSUES_PROJECT": "Tickets",
                 "CREATE_AS_SCRUM_DESCRIPTION": "Les tickets et sous-tickets de votre projet seront créées en tant que récit et tâches Taïga.",

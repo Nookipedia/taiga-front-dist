@@ -1057,7 +1057,7 @@
                 "SELECTOR": "Importa il tuo progetto Asana e scegli come gestirlo",
                 "CHOOSE_PROJECT": "Scegli il progetto che vuoi importare",
                 "NO_PROJECTS": "Sembra che tu non abbia progetti in Asana",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "Scrum",
                 "CREATE_AS_SCRUM_DESCRIPTION": "I compiti e sotto-compiti del tuo progetto saranno creati come storie utente e compiti di Nookipedia Tasks.",
                 "CREATE_AS_KANBAN_DESCRIPTION": "I compiti e sotto-compiti del tuo progetto saranno creati con storie utente e compiti di Nookipedia Tasks."
@@ -1068,7 +1068,7 @@
                 "CHOOSE_PROJECT": "Scegli il progetto o la bacheca che vuoi importare",
                 "NO_PROJECTS": "Sembra che tu non abbia progetti o bacheche in Jira",
                 "URL": "Il tuo URL Jira",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "Scrum",
                 "ISSUES_PROJECT": "Problemi",
                 "CREATE_AS_SCRUM_DESCRIPTION": "Le segnalazioni e sotto-segnalazioni del tuo progetto saranno create come storie utente e compiti di Nookipedia Tasks.",

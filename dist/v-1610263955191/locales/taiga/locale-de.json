@@ -1057,7 +1057,7 @@
                 "SELECTOR": "Importieren Sie Ihr Asana Projekt und entscheiden Sie, wie es verwalten werden soll",
                 "CHOOSE_PROJECT": "Wähle das Projekt, welches importiert werden soll",
                 "NO_PROJECTS": "Es scheint, als hätten Sie keine Projekte in Asana",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "Scrum",
                 "CREATE_AS_SCRUM_DESCRIPTION": "Die Aufgaben und Teilaufgaben Ihres Projekts werden als Nookipedia Tasks User Stories und Aufgaben erzeugt",
                 "CREATE_AS_KANBAN_DESCRIPTION": "Die Aufgaben und Teilaufgaben von Ihrem Projekt werden als Nookipedia Tasks User Stories und Aufgaben erzeugt"
@@ -1068,7 +1068,7 @@
                 "CHOOSE_PROJECT": "Wähle Projekt oder Board welches importiert werden soll",
                 "NO_PROJECTS": "Es scheint, dass keine Projekte oder Boards in Jira bestehen",
                 "URL": "Ihre Jira URL",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "Scrum",
                 "ISSUES_PROJECT": "Tickets",
                 "CREATE_AS_SCRUM_DESCRIPTION": "Die Tickets und Untertickets Ihres Projekts werden als Nookipedia Tasks User Stories und Aufgaben erstellt",

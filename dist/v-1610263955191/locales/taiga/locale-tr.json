@@ -1057,7 +1057,7 @@
                 "SELECTOR": "Asana projenizi içe aktarın ve nasıl yöneteceğiniz seçin",
                 "CHOOSE_PROJECT": "İçe aktarmak istediğiniz projeyi seçiniz",
                 "NO_PROJECTS": "Asana da projeniz yok",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "Scrum",
                 "CREATE_AS_SCRUM_DESCRIPTION": "Projenizin görev ve alt görevleri, Nookipedia Tasks kullanıcı hikayeleri ve görevleri olarak oluşturulacak.",
                 "CREATE_AS_KANBAN_DESCRIPTION": "Projenizin görev ve alt görevleri, Nookipedia Tasks kullanıcı hikayeleri ve görevleri olarak oluşturulacak."
@@ -1068,7 +1068,7 @@
                 "CHOOSE_PROJECT": "İçe aktarmak istediğiniz proje ya da panoyu seçiniz",
                 "NO_PROJECTS": "It seems you have no porjects or boards in Jira",
                 "URL": "Jira URL'niz",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "Scrum",
                 "ISSUES_PROJECT": "Sorunlar",
                 "CREATE_AS_SCRUM_DESCRIPTION": "Projenizin talep ve alt talepleri, Nookipedia Tasks kullanıcı hikayeleri ve görevleri olarak yaratılacak.",

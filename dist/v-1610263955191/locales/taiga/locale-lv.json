@@ -1057,7 +1057,7 @@
                 "SELECTOR": "Importējiet savu Asana projektu un izvēlieties, kā to pārvaldīt",
                 "CHOOSE_PROJECT": "Izvēlieties importējamo projektu",
                 "NO_PROJECTS": "Izskatās, ka Jums Asanā nav neviena projekta",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "Skram (Scrum)",
                 "CREATE_AS_SCRUM_DESCRIPTION": "Jūsu projekta uzdevumi un apakšuzdevumi Taigā tiks izveidoti kā vajadzības un uzdevumi.",
                 "CREATE_AS_KANBAN_DESCRIPTION": "Jūsu projekta uzdevumi un apakšuzdevumi Taigā tiks izveidoti kā vajadzības un uzdevumi."
@@ -1068,7 +1068,7 @@
                 "CHOOSE_PROJECT": "Izvēlieties importējamo projektu vai paneli/dēli",
                 "NO_PROJECTS": "Izskatās, ka Jums Jirā nav projektu vai paneļu",
                 "URL": "Jūsu Jira URL",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "Skram (Scrum)",
                 "ISSUES_PROJECT": "Izmaiņu pieprasījumi",
                 "CREATE_AS_SCRUM_DESCRIPTION": "Jūsu projekta izmaiņu pieprasījumi un apakš-izmaiņu pieprasījumi Taigā tiks izveidoti kā vajadzības un uzdevumi.",
