@@ -47762,7 +47762,7 @@
 
     AppMetaService.prototype.setOpenGraphMetas = function(title, description) {
       this._set("og:type", "object");
-      this._set("og:site_name", "Taiga - Love your projects");
+      this._set("og:site_name", "Taiga - Nookipedia's to-do lists");
       this._set("og:title", title);
       this._set("og:description", truncate(description, 300));
       this._set("og:image", window.location.origin + "/" + window._version + "/images/logo-color.png");
