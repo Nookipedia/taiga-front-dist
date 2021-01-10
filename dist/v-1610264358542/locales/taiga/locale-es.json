@@ -941,7 +941,7 @@
             "TEMPLATE_SCRUM": "Scrum",
             "TEMPLATE_SCRUM_DESC": "Prioriza y soluciona tus tareas en ciclos cortos de tiempo.",
             "TEMPLATE_SCRUM_LONGDESC": "Scrum es una metodología ágil, iterativa e incremental, de desarrollo de software para la gestión del desarrollo de productos.\nEl backlog de producto es lo que finalmente será entregado, ordenado en el orden que debe ser entregado. El product backlog se divide en trozos manejables y ejecutables llamados sprints. Cada cierto tiempo el equipo inicia un nuevo sprint y se compromete a entregar un número de user stories del backlog, de acuerdo a la capacidad, habilidades y recursos. El proyecto avanza hasta que el backlog se vacía.",
-            "TEMPLATE_KANBAN": "Kanban",
+            "TEMPLATE_KANBAN": "Tasks",
             "TEMPLATE_KANBAN_DESC": "Mantén un flujo constante de tareas independientes",
             "TEMPLATE_KANBAN_LONGDESC": "La metodología Kanban se usa para dividir el proceso de desarrollo (o cualquier tipo de proyecto) en etapas. Una tarjeta de Kanban es como una ficha o un post-it que detalla cada tarea (o user story) en un proyecto para ser completada. El tablero de Kanban se usa para mover cada tarjeta de un estado de progreso al siguiente, y de este modo ayuda a trazar el progreso.",
             "DUPLICATE": "Duplicar proyecto",
@@ -1551,9 +1551,9 @@
         "PAGE_DESCRIPTION": "Estado: {{issueStatus }}. Tipo: {{issueType}}, Prioridad: {{issuePriority}}. Gravedad: {{issueSeverity}}. Descripción: {{issueDescription}}"
     },
     "KANBAN": {
-        "PAGE_TITLE": "Kanban - {{projectName}}",
+        "PAGE_TITLE": "Tasks - {{projectName}}",
         "PAGE_DESCRIPTION": "El panel Kanban, con las historias de usuario del proyecto {{projectName}}: {{projectDescription}}",
-        "SECTION_NAME": "Kanban",
+        "SECTION_NAME": "Tasks",
         "TITLE_ACTION_FOLD": "Plegar columna",
         "TITLE_ACTION_UNFOLD": "Desplegar columna",
         "TITLE_ACTION_ADD_US": "Añadir  historia de usuario",

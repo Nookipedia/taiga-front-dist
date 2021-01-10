@@ -941,7 +941,7 @@
             "TEMPLATE_SCRUM": "Scrum",
             "TEMPLATE_SCRUM_DESC": "Assegna una priorità e porta a termine le cose da fare in brevi cicli temporali",
             "TEMPLATE_SCRUM_LONGDESC": "Scrum è una metodologia di sviluppo del software iterativa e incrementale per gestire l'avanzamento del prodotto.\nIl backlog del prodotto è la lista di ciò che deve essere fatto, ordinata nella sequenza in cui deve essere consegnato il lavoro. I Backlog Prodotto vengono suddivisi in pezzi più facilmente gestibili e velocemente eseguibili chiamati sprints. Dopo un certo periodo di tempo il team inizia un nuovo sprint e si dedica alla consegna di un determinato numero di storie utente prese dal backlog, al ritmo delle loro abilità, esperienze e risorse. Il progetto viene portato a termine man mano che il backlog si compie.",
-            "TEMPLATE_KANBAN": "Kanban",
+            "TEMPLATE_KANBAN": "Tasks",
             "TEMPLATE_KANBAN_DESC": "Mantieni un flusso di lavoro costante su compiti indipendenti",
             "TEMPLATE_KANBAN_LONGDESC": "La metodologia Kanban è usata per suddividere il processo di sviluppo del progetto (di qualunque tipo) in stadi consecutivi.\nUna scheda kanban è come un segnaposto oppure un post-it che descrive ogni compito (o storia utente) che necessita di essere completato. Ogni scheda viene spostata da uno stato ad un altro del processo tramite la bacheca kanban, utile strumento per tenere sott'occhio la situazione di completamento.",
             "DUPLICATE": "Duplica progetto",
@@ -1551,9 +1551,9 @@
         "PAGE_DESCRIPTION": "Stato: {{issueStatus }}. Tipo: {{issueType}}, Prioritá: {{issuePriority}}. Severitá: {{issueSeverity}}. Descrizione: {{issueDescription}}"
     },
     "KANBAN": {
-        "PAGE_TITLE": "Kanban - {{projectName}}",
+        "PAGE_TITLE": "Tasks - {{projectName}}",
         "PAGE_DESCRIPTION": "Il pannello kanban, con le storie utenti del progetto {{projectName}}: {{projectDescription}}",
-        "SECTION_NAME": "Kanban",
+        "SECTION_NAME": "Tasks",
         "TITLE_ACTION_FOLD": "Ripiega la colonna",
         "TITLE_ACTION_UNFOLD": "Riapri la colonna",
         "TITLE_ACTION_ADD_US": "Add new user story",

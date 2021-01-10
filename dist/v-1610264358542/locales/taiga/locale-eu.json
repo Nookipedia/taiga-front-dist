@@ -941,7 +941,7 @@
             "TEMPLATE_SCRUM": "Scrum",
             "TEMPLATE_SCRUM_DESC": "Antolatu zure atazak aldi laburretan, lehentasunak ezarrita",
             "TEMPLATE_SCRUM_LONGDESC": "Scrum softwarea garatzeko metodologia bat da, errepikatzailea eta metatzailea, produktuen garapena kudeatzeko sortua.\nProduktua garatzeko egin beharreko lana sekuentzia batean antolatzen da, hurrenkera zorrotzaz. Egin beharreko horiek zatiki erabilgarritan banatzen dira, epe bat dutenak.  Aldiro-aldiro, lantaldeak urrats berri bati ekiten dio, eginkizun kopuru bat amaitzeko konpromisoaz, eskura dituen trebetasun, jakintza eta baliabideen arabera. Proiektua aurrera doa atzeratutako lana gutxitzen den heinean.",
-            "TEMPLATE_KANBAN": "Kanban",
+            "TEMPLATE_KANBAN": "Tasks",
             "TEMPLATE_KANBAN_DESC": "Eduki lan katea etengabe bat ataza bereizietan",
             "TEMPLATE_KANBAN_LONGDESC": "Kanban metodologia erabili ohi da proiektuen garapena urratsetan banatzeko.\nKanban txartel edo ohar moduko bat da, gauzatu beharreko eginkizun eta atazak xehatzen dituena. Kanban arbela erabiltzen da txartelak urratsez urrats eramaten joateko eta, horrela, aurrerabidearen jarraipena egiteko.",
             "DUPLICATE": "Bikoiztu proiektua",
@@ -1551,9 +1551,9 @@
         "PAGE_DESCRIPTION": "Egoera: {{issueStatus }}. Mota: {{issueType}}, lehentasuna: {{issuePriority}}. Larritasuna: {{issueSeverity}}. Azalpena: {{issueDescription}}"
     },
     "KANBAN": {
-        "PAGE_TITLE": "Kanban - {{projectName}}",
+        "PAGE_TITLE": "Tasks - {{projectName}}",
         "PAGE_DESCRIPTION": "Kanban panela, proiektu honen eginkizunekin: {{projectName}}: {{projectDescription}}",
-        "SECTION_NAME": "Kanban",
+        "SECTION_NAME": "Tasks",
         "TITLE_ACTION_FOLD": "Bildu zutabea",
         "TITLE_ACTION_UNFOLD": "Zabaldu zutabea",
         "TITLE_ACTION_ADD_US": "Gehitu eginkizun berri bat",

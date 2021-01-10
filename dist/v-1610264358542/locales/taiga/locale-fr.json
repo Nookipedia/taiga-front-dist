@@ -941,7 +941,7 @@
             "TEMPLATE_SCRUM": "Scrum",
             "TEMPLATE_SCRUM_DESC": "Prioriser et résoudre vos tâches sur de court cycles de temps.",
             "TEMPLATE_SCRUM_LONGDESC": "Scrum est une méthodologie de développement de logiciels agile, incrémentale et itérative pour la gestion du développement de produits.\n\nLe backlog du produit est ce qui sera finalement livré, organisé dans l'ordre dans lequel il doit être livré. Les besoins sont divisés en fragments manageables et exécutables nommés sprints. Chaque fois que l'équipe initie un nouveau sprint; elle s'engage à livrer un certain nombre de récits utilisateurs du backlog, en fonction de leurs compétences, capacités et ressources. Le projet avance à mesure que le backlog se vide.",
-            "TEMPLATE_KANBAN": "Kanban",
+            "TEMPLATE_KANBAN": "Tasks",
             "TEMPLATE_KANBAN_DESC": "Garder un flux de travail constant sur les tâches indépendantes",
             "TEMPLATE_KANBAN_LONGDESC": "La méthodologie Kanban est utilisée pour diviser un développement de projet (n'importe quelle sorte de projet) en différentes étapes.\n\nUne carte Kamban est similaire à un mémo ou un post-it qui détaille chaque tâche (ou récit utilisateur) qu'il faut effectuer dans un projet. Le tableau Kanban est utilisé pour déplacer chaque carte d'un état d'avancement à l'autre, d'état en état, facilitant de ce fait l'avancée des tâches.",
             "DUPLICATE": "Dupliquer le projet",
@@ -1551,9 +1551,9 @@
         "PAGE_DESCRIPTION": "État : {{issueStatus }}. Type : {{issueType}}, Priorité : {{issuePriority}}. Gravité : {{issueSeverity}}. Description : {{issueDescription}}"
     },
     "KANBAN": {
-        "PAGE_TITLE": "Kanban - {{projectName}}",
+        "PAGE_TITLE": "Tasks - {{projectName}}",
         "PAGE_DESCRIPTION": "Le panneau kanban avec les récits utilisateurs du {{projectName}} : {{projectDescription}}",
-        "SECTION_NAME": "Kanban",
+        "SECTION_NAME": "Tasks",
         "TITLE_ACTION_FOLD": "Replier la colonne",
         "TITLE_ACTION_UNFOLD": "Déplier la colonne",
         "TITLE_ACTION_ADD_US": "Ajouter un nouveau récit utilisateur",

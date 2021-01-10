@@ -941,7 +941,7 @@
             "TEMPLATE_SCRUM": "Scrum",
             "TEMPLATE_SCRUM_DESC": "Priorisieren und lösen Sie Ihre Aufgaben in kurzen Zeitintervallen",
             "TEMPLATE_SCRUM_LONGDESC": "Scrum is an iterative and incremental agile software development methodology for managing product development.\nThe product backlog is what will ultimately be delivered, ordered into the sequence in which it should be delivered. Product Backlogs are broken into manageable, executable chunks named sprints. Every certain amount of time the team initiates a new sprint and commits to deliver a certain number of user stories from the backlog, in accordance with their skills, abilities and resources. The project advances as the backlog becomes depleted.",
-            "TEMPLATE_KANBAN": "Kanban",
+            "TEMPLATE_KANBAN": "Tasks",
             "TEMPLATE_KANBAN_DESC": "Halte einen konstanten Workflow bei unabhängigen Aufgaben",
             "TEMPLATE_KANBAN_LONGDESC": "The Kanban methodology is used to divide project development (any sort of project) into stages.\nA kanban card is like an index card or post-it note that details every task (or user story) in a project that needs to be completed. The Kanban board is used to move each card from one state of completion to the next and in so doing, helps track progress.",
             "DUPLICATE": "Projekt duplizieren",
@@ -1551,9 +1551,9 @@
         "PAGE_DESCRIPTION": "Status: {{issueStatus }}. Typ: {{issueType}}, Priorität: {{issuePriority}}. Gewichtung: {{issueSeverity}}. Beschreibung: {{issueDescription}}"
     },
     "KANBAN": {
-        "PAGE_TITLE": "Kanban - {{projectName}}",
+        "PAGE_TITLE": "Tasks - {{projectName}}",
         "PAGE_DESCRIPTION": "Das Kanban Panel, mit User-Stories des Projekts {{projectName}}: {{projectDescription}}",
-        "SECTION_NAME": "Kanban",
+        "SECTION_NAME": "Tasks",
         "TITLE_ACTION_FOLD": "Seite einklappen",
         "TITLE_ACTION_UNFOLD": "Spalte aufklappen",
         "TITLE_ACTION_ADD_US": "Add new user story",

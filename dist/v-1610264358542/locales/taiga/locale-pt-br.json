@@ -941,7 +941,7 @@
             "TEMPLATE_SCRUM": "Scrum",
             "TEMPLATE_SCRUM_DESC": "Priorize e resolva suas tarefas em curtos ciclos de tempo.",
             "TEMPLATE_SCRUM_LONGDESC": "Scrum é uma metodologia de desenvolvimento de software agilizável e incremental para gerenciar o desenvolvimento de produtos.\nO backlog do produto é o que será finalmente entregue, ordenado na sequência em que deve ser entregue. Os Backlogs de produtos são divididos em pedaços executáveis ​​gerenciáveis, denominados sprints. Toda certa quantidade de tempo que a equipe inicia um novo sprint e compromete-se a entregar um certo número de histórias de usuários do backlog, de acordo com suas habilidades, habilidades e recursos. O projeto avança à medida que o backlog se torna esgotado.",
-            "TEMPLATE_KANBAN": "Kanban",
+            "TEMPLATE_KANBAN": "Tasks",
             "TEMPLATE_KANBAN_DESC": "Mantenha um fluxo de trabalho constante em tarefas independentes",
             "TEMPLATE_KANBAN_LONGDESC": "A metodologia Kanban é usada para dividir o desenvolvimento do projeto (qualquer tipo de projeto) em etapas.Um cartão kanban é como um cartão de índice ou uma nota post-it que detalha cada tarefa (ou história do usuário) em um projeto que precisa ser concluído. O quadro Kanban é usado para mover cada cartão de um estado de conclusão para o próximo e, ao fazê-lo, ajuda a rastrear o progresso.",
             "DUPLICATE": "Projeto duplicado",
@@ -1551,9 +1551,9 @@
         "PAGE_DESCRIPTION": "Estado: {{issueStatus }}. Tipo: {{issueType}}, Prioridade: {{issuePriority}}. gravidade: {{issueSeverity}}. Descrição: {{issueDescription}}"
     },
     "KANBAN": {
-        "PAGE_TITLE": "Kanban - {{projectName}}",
+        "PAGE_TITLE": "Tasks - {{projectName}}",
         "PAGE_DESCRIPTION": "O painel do kanban, contendo histórias de usuários do projeto {{projectName}}: {{projectDescription}}",
-        "SECTION_NAME": "Kanban",
+        "SECTION_NAME": "Tasks",
         "TITLE_ACTION_FOLD": "Recolher coluna",
         "TITLE_ACTION_UNFOLD": "Abrir coluna",
         "TITLE_ACTION_ADD_US": "Add new user story",
