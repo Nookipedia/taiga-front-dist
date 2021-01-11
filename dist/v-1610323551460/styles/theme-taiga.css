@@ -13223,6 +13223,7 @@ tg-wysiwyg {
     font-family: 'OpenSans-Light', Arial, Helvetica, sans-serif;
     font-weight: 200;
     font-size: 3rem;
+    display: inline;
     line-height: 3rem;
     margin-bottom: 0; }
   .discover-header .project-number {
